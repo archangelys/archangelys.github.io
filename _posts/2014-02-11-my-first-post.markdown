@@ -11,3 +11,11 @@ def hello():
     print "Hello world!"
 {% endhighlight %}
 
+{% highlite c++ %}
+#include <std.io>
+
+class Test {
+    private a;
+    public Test();
+}
+{% endhighlight %}
