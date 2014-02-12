@@ -11,7 +11,7 @@ def hello():
     print "Hello world!"
 {% endhighlight %}
 
-{% highlite c++ %}
+{% highlight c++ %}
 #include <std.io>
 
 class Test {
