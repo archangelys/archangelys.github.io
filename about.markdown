@@ -9,8 +9,6 @@ title: 关于本人
 
 姓名：杨松
 
-手机：18616809162   
-
 邮箱：archangelys@gmail.com
 
 ##教育背景
