@@ -1,3 +1,6 @@
-name: Song Yang
-markdown: redcarpet
-pygments: true
+root: /
+permalink: /:year-:month/:title/
+markdown: rdiscount
+pygments: false
+paginate: 5
+title: Song Yang
