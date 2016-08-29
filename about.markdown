@@ -4,6 +4,7 @@ title: 关于本人
 ---
 
 # 个人简历
+
 ## 个人信息
 
 ![my photo](/static/resume.jpg "my photo" )
