@@ -1,7 +1,7 @@
 root: /
 permalink: /:year-:month/:title/
-#markdown: rdiscount
-markdown: redcarpet
-pygments: false
-paginate: 5
+markdown: kramdown
+highlighter: rouge
+paginate: 2
 title: Song Yang
+gems: [jekyll-paginate]
